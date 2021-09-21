@@ -23,7 +23,7 @@
 
 ### Frontend  
 <div align="center">  
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1176%2F1*LvA59wJi3O9jTMQQsw_cRA.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40auth0%2Fnext-js-authentication-tutorial-99111927a55&tbnid=HiAaMkhW0MmdjM&vet=12ahUKEwj4-Pvbno_zAhXEWHwKHT89AQ4QMygEegUIARCuAQ..i&docid=keU1QenoKDNkfM&w=1176&h=1056&q=nextjs%20logo&ved=2ahUKEwj4-Pvbno_zAhXEWHwKHT89AQ4QMygEegUIARCuAQ" alt="nextjs" width="50" height="50"/>
+ <img style="margin: 10px" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" alt="nextjs" width="50" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
