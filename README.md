@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Nahid, a passionate web developer from Bangladesh</div>  
@@ -25,6 +23,7 @@
 
 ### Frontend  
 <div align="center">  
+ <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="50" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
@@ -48,10 +47,10 @@
 
 
 
-### DevOps  
+<!-- ### DevOps  
 <div align="center">  
   
-</div>
+</div> -->
 
 </td></tr></table>  
 
@@ -81,7 +80,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
