@@ -23,7 +23,7 @@
 
 ### Frontend  
 <div align="center">  
- <img style="margin: 10px" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" alt="nextjs" width="50" height="50"/>
+ <img style="margin: 10px" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs" width="50" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
