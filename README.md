@@ -17,8 +17,8 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+<table><tr>
+ <td valign="top" width="40%">
 
 
 ### Frontend  
@@ -26,33 +26,32 @@
  <img style="margin: 10px" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs" width="50" height="50"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+  
+ <td valign="top" width="40%">
 
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
+</td>
+<!--   <td valign="top" width="33%"> -->
 
 <!-- ### DevOps  
 <div align="center">  
   
-</div> -->
+</div>
 
-</td></tr></table>  
+</td> -->
+  
+</tr></table>  
 
 <br/>  
 
@@ -75,10 +74,32 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nahidnstu12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nahidnstu12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
+<div align="center"> <br/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nahidnstu12) 
+  
+</div>
 <br/>  
 
+<br>
+<details>
+  <summary>Github Public Stats :computer:</summary>
+<a href="https://github.com/nahidnstu12?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidnstu12&hide=scheme&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" />
+</a>
+<a href="https://github.com/nahidnstu12?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidnstu12&show_icons=true&line_height=33&count_private=true&title_color=EC5061&text_color=FBDCDF&icon_color=E89F9A&bg_color=0D1117" alt="Nahid's GitHub Stats" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=nahidnstu12)
+  ----
+</details>
+
+------
+[nahidnstu12](https://github.com/nahidnstu12) <br>
+Last Edited on: 29/01/2021
 
 
   
@@ -96,5 +117,5 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+
