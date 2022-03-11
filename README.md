@@ -2,15 +2,19 @@
   
 
 ### <div align="center">I'm Majharul Islam, you can call me as Nahid, a passionate web developer from Bangladesh</div>  
+  ---
+  
   
 
-- 🔭 I’m currently working on [CollageLMS](https://github.com/nahidnstu12/collagelms)  
+- 🔭 I’m currently working on [CollageLMS](https://github.com/nahidnstu12/collageLMS)  
   
 
 - 🌱 I’m currently learning Next JS  
   
 
 - 🏫 Hurray! I'm graduated this february, 2022. Now I'm looking fresher job for frontend developer position
+
+- 2022 Goals: Contribute some Open Source projects and Community
   
 
 <br/>  
@@ -18,7 +22,9 @@
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 
-## My Skill Set  
+### My Skill Set  
+---
+
 <table>
   <tr  width="100%">
  <td valign="top" width="100%">
@@ -55,35 +61,19 @@
 </tr></table>  
 
 <br/>  
-
-
-
  
-<div align="center">
-<a href="https://github.com/nahidnstu12" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nahid-islam-1aaa6814b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100025300822373" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
   
-## Connect with me 
-
-
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="" alt="fb logo" width="24">](https://www.facebook.com/https://www.facebook.com/profile.php?id=100025300822373) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Delta2315) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/10053063/delta231) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/Delta456) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/reddit.jpg" alt="reddit logo" width="24">](https://www.reddit.com/user/Delta231)
-|---|---|---|---|---|---|
-
+### Connect with me 
 ---
 
-<br/>  
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://github.com/nahidnstu12/nahidnstu12/blob/main/fb-2.png" alt="fb logo" width="24">](https://www.facebook.com/https://www.facebook.com/profile.php?id=100025300822373) | [<img src="https://github.com/nahidnstu12/nahidnstu12/blob/main/linkedin-2.png" alt="linedin logo" width="34">](https://linkedin.com/in/https://www.linkedin.com/in/nahid-islam-1aaa6814b/) | [<img src="https://github.com/nahidnstu12/nahidnstu12/blob/main/gmail-2.png" alt="gmail logo" width="24">](mailto:nahid.dev19@gmail.com) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/nahidcste12) 
+|---|---|---|---|---|
 
 
-## Github Stats  
+
+### Github Stats  
+---
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nahidnstu12&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <div align="center"> <br/>
@@ -109,7 +99,7 @@
 
 ------
 [nahidnstu12](https://github.com/nahidnstu12) <br>
-Last Edited on: 29/01/2021
+Last Edited on: 11/03/2022
 
 
   
