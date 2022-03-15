@@ -32,7 +32,7 @@
 
 ### Frontend  
 <div align="center">  
-  <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 30px" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="nextjs" width="50" height="50"/>
 <img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 
@@ -61,9 +61,22 @@
 </tr></table>  
 
 <br/>  
- 
-  
-  
+
+### My Featured Project And Live Link
+---
+   
+Project Name | Used technology | Live Link
+| :--- | ---: | :---:
+Collage LMS  | NextJS, Laravel Rest Api | [Live Link](https://collage-lms-nstu.netlify.app/)
+E-toss  | Laravel, Blade template | [Live Link](https://www.etossbd.com)
+DevBlog  | NextJS,GraphQL,GraphCMS  | [Live Link](https://devblog-graphcms.vercel.app/)
+Forkify  | Javascript, Rest Api | [Live Link](https://food-fork.netlify.app/)
+YTC-Stream-App  | Nextjs,Redux,Youtube Api V3  | [Live Link](https://ytc-stream.netlify.app)
+Web Design Practise  | Html, SCSS | [Live Link](https://bootcamp-assignment-web-desgin.netlify.app)
+Start-UP | ReactJS, MaterialUI | [Live Link](https://startup-mui.netlify.app)
+Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.com/)
+
+      
 ### Connect with me 
 ---
 
@@ -99,7 +112,7 @@
 
 ------
 [nahidnstu12](https://github.com/nahidnstu12) <br>
-Last Edited on: 11/03/2022
+Last Edited on: 15/03/2022
 
 
   
