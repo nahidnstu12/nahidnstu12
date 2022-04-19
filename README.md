@@ -69,10 +69,12 @@ Project Name | Used technology | Live Link
 | :--- | ---: | :---:
 Collage LMS  | NextJS, Laravel Rest Api | [Live Link](https://collage-lms-nstu.netlify.app/)
 E-toss  | Laravel, Blade template | [Live Link](https://www.etossbd.com)
+Food Finding  | NextJS,TailwindCSS  | [Live Link](https://food-finding.vercel.app/)
 DevBlog  | NextJS,GraphQL,GraphCMS  | [Live Link](https://devblog-graphcms.vercel.app/)
 Forkify  | Javascript, Rest Api | [Live Link](https://food-fork.netlify.app/)
 YTC-Stream-App  | Nextjs,Redux,Youtube Api V3  | [Live Link](https://ytc-stream.netlify.app)
-Web Design Practise  | Html, SCSS | [Live Link](https://bootcamp-assignment-web-desgin.netlify.app)
+Web Design Practise  | Html, SCSS, TailwindCSS | [Live Link](https://bootcamp-assignment-web-desgin.netlify.app)
+Express Playground  | Express, Rest Api, Mongoose | [Repo Link](https://github.com/nahidnstu12/express-playground)
 Start-UP | ReactJS, MaterialUI | [Live Link](https://startup-mui.netlify.app)
 Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.com/)
 
@@ -112,7 +114,7 @@ Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.c
 
 ------
 [nahidnstu12](https://github.com/nahidnstu12) <br>
-Last Edited on: 15/03/2022
+Last Edited on: 19/04/2022
 
 
   
