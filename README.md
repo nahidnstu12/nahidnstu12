@@ -6,13 +6,15 @@
   
   
 
-- 🔭 I’m currently working on [CollageLMS](https://github.com/nahidnstu12/collageLMS)  
+- 🔭 I’m currently working on [JapanGardenCity](https://github.com/nahidnstu12/ecom-admin-japangardencity)  
   
 
 - 🌱 I’m currently learning Next JS  
   
 
 - 🏫 Hurray! I'm graduated this february, 2022. Now I'm looking fresher job for frontend developer position
+
+- I got a job as Junior Frontend Developer, bangladeshi firm (Softbd limited)
 
 - 2022 Goals: Contribute some Open Source projects and Community
   
@@ -67,6 +69,7 @@
    
 Project Name | Used technology | Live Link
 | :--- | ---: | :---:
+JapanGardenShop  | NextJS, Laravel Rest Api | [Live Link](https://ecom-admin-japangardencity.vercel.app/)
 Collage LMS  | NextJS, Laravel Rest Api | [Live Link](https://collage-lms-nstu.netlify.app/)
 E-toss  | Laravel, Blade template | [Live Link](https://www.etossbd.com)
 Food Finding  | NextJS,TailwindCSS  | [Live Link](https://food-finding.vercel.app/)
