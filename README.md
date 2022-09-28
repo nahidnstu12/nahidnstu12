@@ -6,17 +6,17 @@
   
   
 
-- 🔭 I’m currently working on [JapanGardenCity](https://github.com/nahidnstu12/ecom-admin-japangardencity)  
+- 🔭 I’m currently working on [JapanGardenCity](https://ecom-admin-japangardencity.vercel.app)  
   
 
-- 🌱 I’m currently learning Next JS  
+- 🌱 I’m currently working with Next JS 
   
 
-- 🏫 Hurray! I'm graduated this february, 2022. Now I'm looking fresher job for frontend developer position
+- 🏫 Hurray! I'm graduated this february, 2022. 
 
-- I got a job as Junior Frontend Developer, bangladeshi firm (Softbd limited)
+- I got a job as Junior Software Engineer (Frontend Development), Bangladeshi IT Firm [Softbd ltd](https://softbdltd.com/)
 
-- 2022 Goals: Contribute some Open Source projects and Community
+- 2022 Goals: Contribute some Open Source projects and Community & master of frontend development
   
 
 <br/>  
@@ -117,7 +117,7 @@ Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.c
 
 ------
 [nahidnstu12](https://github.com/nahidnstu12) <br>
-Last Edited on: 19/04/2022
+Last Edited on: 19/09/2022
 
 
   
