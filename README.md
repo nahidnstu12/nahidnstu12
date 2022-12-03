@@ -6,13 +6,13 @@
   
   
 
-- 🔭 I’m currently working on [JapanGardenCity](https://ecom-admin-japangardencity.vercel.app)  
+- 🔭 I’m currently working on [Bookmark Project](https://bookmark-bd.fly.dev/)  
   
 
-- 🌱 I’m currently working with Next JS 
+- 🌱 I’m currently working on Frontend, specially Next JS 
   
 
-- 🏫 Hurray! I'm graduated this february, 2022. 
+- 🏫 I am graduated on Bsc in Computer Science
 
 - I got a job as Junior Software Engineer (Frontend Development), Bangladeshi IT Firm [Softbd ltd](https://softbdltd.com/)
 
@@ -23,8 +23,14 @@
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
+### Things I code with
+---
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-### My Skill Set  
+
+
+
+<!-- ### My Skill Set  
 ---
 
 <table>
@@ -62,13 +68,36 @@
   
 </tr></table>  
 
-<br/>  
+<br/>   -->
 
 ### My Featured Project And Live Link
 ---
+
+### My Projects & Ventures
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+      <td><b>Used Technology</b></td>
+      <td><b>Live Link</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bookmark</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>NextJS, Strapi-CMS </td>
+      <td> <a href="https://bookmark-bd.fly.dev/" target="_blank">Live Link</a><br><a href="https://bookmark-bd.fly.dev/" target="_blank">Github Link</a></td>
+    </tr>
+    
+  </tbody>
+</table>
    
 Project Name | Used technology | Live Link
 | :--- | ---: | :---:
+Bookmark  | NextJS, Strapi-CMS | [Live Link](https://bookmark-bd.fly.dev/)
 JapanGardenShop  | NextJS, Laravel Rest Api | [Live Link](https://ecom-admin-japangardencity.vercel.app/)
 Collage LMS  | NextJS, Laravel Rest Api | [Live Link](https://collage-lms-nstu.netlify.app/)
 E-toss  | Laravel, Blade template | [Live Link](https://www.etossbd.com)
@@ -117,7 +146,7 @@ Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.c
 
 ------
 [nahidnstu12](https://github.com/nahidnstu12) <br>
-Last Edited on: 19/09/2022
+Last Edited on: 1/12/2022
 
 
   
