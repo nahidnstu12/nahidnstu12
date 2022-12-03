@@ -73,8 +73,6 @@
 ### My Featured Project And Live Link
 ---
 
-### My Projects & Ventures
-
 <table>
   <thead align="center">
     <tr border: none;>
@@ -113,6 +111,9 @@ Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.c
       
 ### Connect with me 
 ---
+:coffee: &emsp;Connect with me!
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025300822373) [![Gitlab Badge](https://img.shields.io/badge/Gitlab-FF0000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nahidcste12) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahid-islam-1aaa6814b/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahid.dev19@gmail.com)
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Delta456) | [<img src="https://github.com/nahidnstu12/nahidnstu12/blob/main/fb-2.png" alt="fb logo" width="24">](https://www.facebook.com/https://www.facebook.com/profile.php?id=100025300822373) | [<img src="https://github.com/nahidnstu12/nahidnstu12/blob/main/linkedin-2.png" alt="linedin logo" width="34">](https://linkedin.com/in/https://www.linkedin.com/in/nahid-islam-1aaa6814b/) | [<img src="https://github.com/nahidnstu12/nahidnstu12/blob/main/gmail-2.png" alt="gmail logo" width="24">](mailto:nahid.dev19@gmail.com) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/nahidcste12) 
 |---|---|---|---|---|
