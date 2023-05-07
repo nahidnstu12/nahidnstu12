@@ -154,7 +154,7 @@
 
 
    
-Project Name | Used technology | Live Link
+<!-- Project Name | Used technology | Live Link
 | :--- | ---: | :---:
 Bookmark  | NextJS, Strapi-CMS | [Live Link](https://bookmark-bd.fly.dev/)
 JapanGardenShop  | NextJS, Laravel Rest Api | [Live Link](https://ecom-admin-japangardencity.vercel.app/)
@@ -167,7 +167,7 @@ YTC-Stream-App  | Nextjs,Redux,Youtube Api V3  | [Live Link](https://ytc-stream.
 Web Design Practise  | Html, SCSS, TailwindCSS | [Live Link](https://bootcamp-assignment-web-desgin.netlify.app)
 Express Playground  | Express, Rest Api, Mongoose | [Repo Link](https://github.com/nahidnstu12/express-playground)
 Start-UP | ReactJS, MaterialUI | [Live Link](https://startup-mui.netlify.app)
-Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.com/)
+Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.com/) -->
 
       
 ### Connect with me 
