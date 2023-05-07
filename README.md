@@ -71,11 +71,13 @@
 <br/>   -->
 
 ### My Featured Project And Live Link
+
 ---
+
 
 <table>
   <thead align="center">
-    <tr border: none;>
+    <tr border="none" >
       <td><b>Projects</b></td>
       <td><b>Description</b></td>
       <td><b>Used Technology</b></td>
@@ -87,11 +89,70 @@
       <td>Bookmark</td>
       <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
       <td>NextJS, Strapi-CMS </td>
-      <td> <a href="https://bookmark-bd.fly.dev/" target="_blank">Live Link</a><br><a href="https://bookmark-bd.fly.dev/" target="_blank">Github Link</a></td>
+      <td> <a href="https://bookmark-bd.fly.dev/" target="_blank">Live Link</a><br><a href="https://github.com/fahimfaisaal/bookmark" target="_blank">Github Link</a></td>
+    </tr>
+
+ <tr>
+      <td>Clean Youtube</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>NextJS, Typescript, Youtube data Api</td>
+      <td> <a href="https://collage-lms-nstu.netlify.app" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/clean-youtube" target="_blank">Github Link</a></td>
+    </tr>
+
+   <tr>
+      <td>JapanGardenShop</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>NextJS, Laravel Rest Api</td>
+      <td> <a href="https://ecom-admin-japangardencity.vercel.app/" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/ecom-admin-japangardencity" target="_blank">Github Link</a></td>
     </tr>
     
+ <tr>
+      <td>Collage LMS</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>NextJS, Laravel Rest Api </td>
+      <td> <a href="https://collage-lms-nstu.netlify.app" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/collageLMS" target="_blank">Github Link</a></td>
+    </tr>
+ <tr>
+      <td>E-Toss</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>Laravel, Blade template</td>
+      <td> <a href="https://www.etossbd.com" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/collageLMS" target="_blank">Github Link</a></td>
+    </tr>
+ <tr>
+      <td>Express Playground</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>Express, Rest Api, Mongoose </td>
+      <td> <a href="https://collage-lms-nstu.netlify.app" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a></td>
+    </tr>
+<tr>
+      <td>Forkify</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>Javascript, Rest Api </td>
+      <td> <a href="https://food-fork.netlify.app/" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a></td>
+    </tr>
+<tr>
+      <td>Food Finding</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>NextJS,TailwindCSS </td>
+      <td> <a href="https://food-finding.vercel.app/" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a></td>
+    </tr>
+    <tr>
+      <td>Dev Blog</td>
+      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>NextJS,GraphQL,GraphCMS</td>
+      <td> 
+        <a href="https://devblog-graphcms.vercel.app/" target="_blank">Live Link</a>
+        <br>
+        <a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a>
+      </td>
+    </tr>
+
+  
+
   </tbody>
 </table>
+
+
    
 Project Name | Used technology | Live Link
 | :--- | ---: | :---:
