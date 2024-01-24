@@ -6,7 +6,7 @@
   
   
 
-- 🔭 I’m currently working on [Bookmark Project](https://bookmark-bd.fly.dev/)  
+- 🔭 I’m currently working on [Street-food-rest-api](https://github.com/nahidnstu12/express-playground-fsa)  
   
 
 - 🌱 I’m currently working on Frontend, specially Next JS 
@@ -14,9 +14,7 @@
 
 - 🏫 I am graduated on Bsc in Computer Science
 
-- I got a job as Junior Software Engineer (Frontend Development), Bangladeshi IT Firm [Softbd ltd](https://softbdltd.com/)
-
-- 2022 Goals: Contribute some Open Source projects and Community & master of frontend development
+- I got a job as Software Engineer, Bangladeshi IT Firm [Softbd ltd](https://softbdltd.com/)
   
 
 <br/>  
@@ -86,88 +84,41 @@
   </thead>
   <tbody>
     <tr>
+      <td>Street Food Rest Api</td>
+      <td>Express backend rest api service where user can search menu, adding to cart, placed order. Admin can manage menu, cart, orders.</td>
+      <td>Express, TypeORM, Mysql, Jest</td>
+      <td> <!--<a href="https://collage-lms-nstu.netlify.app" target="_blank">Live Link</a><br> --><a href="https://github.com/nahidnstu12/express-playground-fsa" target="_blank">Github Link</a></td>
+    </tr>
+     <tr>
+      <td>Movie Wave</td>
+      <td>we crafted a modern movie showcasing platform featuring a captivating movie landing page and an intuitive checkout page for a seamless user experience.</td>
+      <td>NextJS, Tailwindcss, ResponsiveCSS</td>
+      <td> <a href="https://movie-wave-zv65-nahidcste12.vercel.app/" target="_blank">Live Link</a> <!--<br><a href="https://github.com/nahidnstu12/collageLMS" target="_blank">Github Link</a> --></td>
+    </tr>
+    <tr>
       <td>Bookmark</td>
       <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
-      <td>NextJS, Strapi-CMS </td>
+      <td>NextJS, Strapi-CMS, RTK </td>
       <td> <a href="https://bookmark-bd.fly.dev/" target="_blank">Live Link</a><br><a href="https://github.com/fahimfaisaal/bookmark" target="_blank">Github Link</a></td>
     </tr>
 
  <tr>
       <td>Clean Youtube</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>This project houses YouTube playlists organized in series, offering a custom layout for a distraction-free video-watching experience. Users have the ability to take notes on each video and can favorite their preferred playlists.</td>
       <td>NextJS, Typescript, Youtube data Api</td>
-      <td> <a href="https://collage-lms-nstu.netlify.app" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/clean-youtube" target="_blank">Github Link</a></td>
+      <td> <a href="https://clean-youtube-playlists.vercel.app/" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/clean-youtube" target="_blank">Github Link</a></td>
     </tr>
 
    <tr>
       <td>JapanGardenShop</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
+      <td>This is a small-scale e-commerce platform tailored for clothing shops. It enables shop owners to manage their product inventory, showcase their items to potential customers, and facilitates online purchasing.</td>
       <td>NextJS, Laravel Rest Api</td>
       <td> <a href="https://ecom-admin-japangardencity.vercel.app/" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/ecom-admin-japangardencity" target="_blank">Github Link</a></td>
     </tr>
     
- <tr>
-      <td>Collage LMS</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
-      <td>NextJS, Laravel Rest Api </td>
-      <td> <a href="https://collage-lms-nstu.netlify.app" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/collageLMS" target="_blank">Github Link</a></td>
-    </tr>
- <tr>
-      <td>E-Toss</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
-      <td>Laravel, Blade template</td>
-      <td> <a href="https://www.etossbd.com" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/collageLMS" target="_blank">Github Link</a></td>
-    </tr>
- <tr>
-      <td>Express Playground</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
-      <td>Express, Rest Api, Mongoose </td>
-      <td> <a href="https://collage-lms-nstu.netlify.app" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a></td>
-    </tr>
-<tr>
-      <td>Forkify</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
-      <td>Javascript, Rest Api </td>
-      <td> <a href="https://food-fork.netlify.app/" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a></td>
-    </tr>
-<tr>
-      <td>Food Finding</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
-      <td>NextJS,TailwindCSS </td>
-      <td> <a href="https://food-finding.vercel.app/" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a></td>
-    </tr>
-    <tr>
-      <td>Dev Blog</td>
-      <td>Bookmark is a modern looking e-commerce application where buyers and visitors have a lot more interaction. Here, visitors can use this site as usal ecommerce.</td>
-      <td>NextJS,GraphQL,GraphCMS</td>
-      <td> 
-        <a href="https://devblog-graphcms.vercel.app/" target="_blank">Live Link</a>
-        <br>
-        <a href="https://github.com/nahidnstu12/express-playground" target="_blank">Github Link</a>
-      </td>
-    </tr>
-
-  
-
   </tbody>
 </table>
 
-
-   
-<!-- Project Name | Used technology | Live Link
-| :--- | ---: | :---:
-Bookmark  | NextJS, Strapi-CMS | [Live Link](https://bookmark-bd.fly.dev/)
-JapanGardenShop  | NextJS, Laravel Rest Api | [Live Link](https://ecom-admin-japangardencity.vercel.app/)
-Collage LMS  | NextJS, Laravel Rest Api | [Live Link](https://collage-lms-nstu.netlify.app/)
-E-toss  | Laravel, Blade template | [Live Link](https://www.etossbd.com)
-Food Finding  | NextJS,TailwindCSS  | [Live Link](https://food-finding.vercel.app/)
-DevBlog  | NextJS,GraphQL,GraphCMS  | [Live Link](https://devblog-graphcms.vercel.app/)
-Forkify  | Javascript, Rest Api | [Live Link](https://food-fork.netlify.app/)
-YTC-Stream-App  | Nextjs,Redux,Youtube Api V3  | [Live Link](https://ytc-stream.netlify.app)
-Web Design Practise  | Html, SCSS, TailwindCSS | [Live Link](https://bootcamp-assignment-web-desgin.netlify.app)
-Express Playground  | Express, Rest Api, Mongoose | [Repo Link](https://github.com/nahidnstu12/express-playground)
-Start-UP | ReactJS, MaterialUI | [Live Link](https://startup-mui.netlify.app)
-Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.com/) -->
 
       
 ### Connect with me 
@@ -208,7 +159,7 @@ Laravel QA  | Laravel, VueJS | [Live Link](https://ask-questions-sof.herokuapp.c
 
 ------
 [nahidnstu12](https://github.com/nahidnstu12) <br>
-Last Edited on: 1/12/2022
+Last Edited on: 1/1/2024
 
 
   
