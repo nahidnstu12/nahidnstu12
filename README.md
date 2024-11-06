@@ -1,20 +1,20 @@
 
   
 
-### <div align="center">I'm Majharul Islam, you can call me as Nahid, a passionate web developer from Bangladesh</div>  
+### <div align="center">I'm Majharul Islam, a Muslim, you can call me Nahid, a passionate web developer from Bangladesh</div>  
   ---
   
   
 
-- I’m currently working on [Helix Application](https://gitlab.com/tech-twig/helix-edu). This is targeted to community student's driven software. We working on first phase.
-  
+- I’m currently working on [Helix Application](https://gitlab.com/tech-twig/helix-edu). This is targeted at community student-driven software. We are working on first phase.
 
-- I’m working on Frontend Development, specially Next JS
-  
+- I’m working on Frontend Development, especially Next JS
 
 - I graduated on Bsc in Computer Science, from NSTU Bangladesh.
 
 - Employed as Software Engineer, Bangladeshi IT Firm [Softbd ltd](https://softbdltd.com/)
+- I am connected to an open source mindset organization, this is a small team, working on product for university & collage student mentorship program. [Tech Twig](https://github.com/orgs/techtwig/dashboard)
+
 - My simple showcasing [Portfolio](https://nahid-portfolio.vercel.app/)
   
 
@@ -42,13 +42,13 @@
   </thead>
   <tbody>
     <tr>
-      <td>ecom-microservice</td>
+      <td>Ecom microservice</td>
       <td>This is e-commerce-driven microservice pet project. here we have 5 services & tools used for different functionalities.</td>
       <td>Express, Typescript, Docker, Postgres, Keyclock, Konga, RabbitMq, Redis</td>
       <td> <a href="https://github.com/nahidnstu12/ecom-microservice" target="_blank">Github Link</a></td>
     </tr>
     <tr>
-      <td>link-sharing-app</td>
+      <td>Link sharing app</td>
       <td>This is dev link share app, a challenge from frontendMentors. This full-stack app has user authentication, link editor, profile update and dev link preview page. I also include testing.</td>
       <td>NextJS 14, Mongoose, React hook form, Yup, Typescript, Jest</td>
       <td> <a href="https://link-sharing-app-indol-two.vercel.app" target="_blank">Live Link</a><br><a href="https://github.com/nahidnstu12/link-sharing-app" target="_blank">Github Link</a></td>
